@@ -1,13 +1,14 @@
 # Digital Fabrication for Local Production
 
-
 ## Digital design
+
+The design is a file in the computer
 
 Design can be transferred
 
 Scale is not a problem
 
-Tools and approaches
+You have a great choice of tools and processes for production
 
 ## Machines controlled by the computer
 

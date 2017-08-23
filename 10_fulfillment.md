@@ -55,6 +55,36 @@ Finally delegating production to a third party can scale to millions of parts in
 
 # Sales and order fulfillment
 
-Once your product is produced
+Once your product is ready to be produced, you should figure out:
 
+- How / where to sell your product: online, in shops, in large consumer stores,  only via resellers
 
+- How will you get your product to the customer from the factory or local shop.
+  This will often involve shipping to a warehouse and getting in place agreements with courier services.
+
+For massively produced goods the two items above are really problematic, and companies spend years for achieving an optimal sales and logistic network.
+
+For Made in a Fab Lab products this will be reduced to a short checklist:
+
+- How much stock you can afford to produce and keep ready for shipping
+
+- Which are the channels you want to use for selling your product, maybe a friend's shop or only online through your website, or just directly.
+
+- Even if shipping locally you might want to consider finding out a local
+courier service or to arrange a dropout location at a local post office.
+
+In any size of business you will need to make invoices and keep accounting records. Many online services allow you to track accounting using your
+browser. One example is [Quickbooks](http://quickbooks.com).
+
+Some offer also integration with online shopping platforms such as
+[Shopify](http://shopify.com) which you could also consider for your online
+sales, but only when you have more than one product.
+
+**Shipping costs must be taken into account very seriously. Designing a compact product and packaging can save substantial amounts.**
+
+## Getting payed
+
+In order to get payed for your online sales, you will need to setup an online
+account for this purpose, usually on [Paypal](http://paypal.com) or [Stripe](http://stripe.com). Both will require a commission for each sale, and to verify your account linking a credit-card or a bank account.
+
+You will be asked for such an account when activating a Shopify account or pretty any other online ecommerce system.

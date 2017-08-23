@@ -2,29 +2,70 @@
 
 ## Key concepts
 
-## 2D Design
 
-## 3D Design
+## Software packages
 
-## Technical drawings
+### 2D Design
 
-## Rendering
+Most used software for 2D Design:
 
-## Animation
+- Autocad
+- Illustrator
+- Drafsight
+- Inkscape
 
-## Simulation
+For photo editing
 
-## Exporting 
+- Gimp
+- Photoshop
 
+### 3D Design
 
-## CAM - Computer Aided Manufacturing
+- Fusion 360
+- Rhinoceros
+- Solidworks
+- Onshape
+- Inventor, Pro-E, Catia, etc
+- Sketchup, ThinkerCAD (basic)
+
+### Technical drawings
+
+- Draftsight
+- Autocad
+- Illustrator
+
+### Rendering
+
+- Blender
+- Maya, 3D Studio Max, Cinema 4D
+- Rhinoceros 
+- Keyshot
+- Solidworks, Fusion, all have rendering
+
+### Animation
+
+- Blender
+- Maya, 3D Studio Max, Cinema 4D
+
+### Simulation
+
+- Blender
+- Solidworks, Fusion
+
+### Exporting 
+
+For interoperability
+
+- STEP,IGES
+
+For printing
+
+- OBJ, STL
+
+### CAM - Computer Aided Manufacturing
 
 ### 3D Printers
 
 ### Lasers
 
 ### CNC Mills
-
-
-
-

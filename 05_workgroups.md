@@ -31,3 +31,17 @@ For the Made in a Fab Lab Workshop we aim to define the following figures:
 - CFO: Responsible for the business planning and funding plan. Responsible to create the product pitch presentation and to work on the Business canvas.
 
 - Product Manager: the advocate of the product, coordinates the product development and plays the role of the customer during all activities. Defines the production plan.
+
+## Group collaboration
+
+A number of tools exist for collaborating in group.
+
+- Kan Ban Boards - Trello, Github - provide a way of quickly representing the status of the group work effort and pick up tasks to complete
+
+- Slack - Realtime archived chat - used to sync up all members of the team on company wide and group discussions  
+
+- Drive sharing - Google Drive, Dropbox - offer a shared folder system and online tools for creating content
+
+- Version control - Github, Gitlab - provide shared workspaces with versioning for each file. Powerful integration to do other stuff.
+
+- Wiki - Github Wiki, Dokuwiki, Mediawiki - provide basic shared hyper-text documents which can be edited collaboratively.

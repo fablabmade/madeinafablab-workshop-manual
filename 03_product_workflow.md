@@ -62,9 +62,23 @@ Starting from the technological prototypes available, our task will be that of d
 
 ## Prototyping
 
+In terms of rapid prototyping digital open designs, personal fabrication and open source hardware make today easy to achieve what required in the past a small factory.
+
+We can quickly prototype a full product starting from modular electronic components, designing an enclosure, along with packaging and marketing materials all using only the equipment available in a Fab Lab.
+
+As a basis of our prototype we can also use on the many available open source projects, which exist in practically all areas: drones, consumer electronics, machines, games, and much more.
+
+Our prototyping process will start from a dozen project selected or developed for the workshop. The participant's main task is to create a concept with digital design and produce an integrated prototype which can be used as an MVP for market validation.
+
+The process will include using different machines, the 3D Printer for making plastic parts, the laser cutter for packaging and 2d interlocking design. The CNC mill for circuits and wax molds. During the workshop participants will discover molding and casting and vacuum forming projects.
 
 ## Documentation
 
+The documentation plays a crucial part in the development of a product. 
+
+During this phase internal and external documentation is produced.
+
+Producing documentation is a collaborative process, so it's very important to track the changes and communicate edits to collaborators. During the workshop we will use tools that allow working together on documentation.
 
 ## Sharing / Marketing
 

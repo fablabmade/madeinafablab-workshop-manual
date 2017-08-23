@@ -23,4 +23,20 @@
 
 ## Examples
 * [Project Index](12_project_briefs.md)
-
+* [Consumer electronics](12_project_briefs.md#consumer-electronics)
+    * [Drone Quad Copter](12_project_briefs.md#drone-quad-copter)
+    * [Bluetooth MP3 Speaker](12_project_briefs.md#bluetooth-mp3-speaker)
+    * [Digital Assistant](12_project_briefs.md#digital-assistant)
+* [IOT](12_project_briefs.md#iot)
+    * [WiFi Weather Station](12_project_briefs.md#wifi-weather-station)
+    * [Magic Mirror](12_project_briefs.md#magic-mirror)
+    * [Security Cam](12_project_briefs.md#security-cam)
+* [Wearables](12_project_briefs.md#wearables)
+    * [Fitness Tracker](12_project_briefs.md#fitness-tracker)
+    * [Bright Jewel](12_project_briefs.md#bright-jewel)
+    * [Smart Watch](12_project_briefs.md#smart-watch)
+* [Personal Automation](12_project_briefs.md#personal-automation)
+    * [Desktop Lamp](12_project_briefs.md#desktop-robotic-lamp)
+    * [Vacuum Former](12_project_briefs.md#vacuum-former)
+    * [Draw Bot](12_project_briefs.md#draw-bot)
+    
