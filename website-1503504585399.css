@@ -15,3 +15,8 @@ h5 {
 .book-summary ul.summary li.header {
   font-family: Roboto, Arial, Helvetica, sans-serif;
   font-weight: bold; }
+
+iframe {
+  border: 0;
+  min-width: 100%;
+  min-height: 700px; }
