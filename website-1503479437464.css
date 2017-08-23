@@ -1,0 +1,17 @@
+.book-logo {
+  text-align: center; }
+
+.book-logo img {
+  min-width: 150px;
+  min-height: 150px; }
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: Roboto, Arial, Helvetica, sans-serif; }
+
+.book-summary ul.summary li.header {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-weight: bold; }
