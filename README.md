@@ -20,6 +20,10 @@ Introduction to Made in a Fab Lab: Manifesto, Materials and Reuse, Licensing and
 
 Workflow overview: what needs to be done from brief to final product.
 
+### [Project development](15_project_development.md)
+
+Project development techniques that can be applied to the product development.
+
 ### [Project requirements](04_project_requirements.md)
 
 Projects brief: how to interpret and analyse the requirements.
@@ -36,7 +40,11 @@ Project documentation: documenting the different parts of the project and constr
 
 Designing a product starting from a scaffold. 
 
-### [Chapter 11: Digital Fabrication for local production](11_digifab.md)
+### [Prototyping](14_prototyping.md)
+
+Using tools and processes for rapid prototyping
+
+### [Digital Fabrication for local production](11_digifab.md)
 
 1. State of the Art
 
