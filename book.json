@@ -1,0 +1,19 @@
+{
+    "plugins": ["theme-gestalt", "-theme-default", "styles-sass-fix", "-sharing", "-fontsettings"],
+    "links": {
+        "sidebar": {
+            "Made in a Fab Lab": "http://fablabmade.com",
+            "Fabctory": "http://fabctory.com"
+        }
+    },
+    "pluginsConfig": {
+        "theme-gestalt": {
+            "logo": "assets/logo.png",
+            "favicon": "assets/favicon.ico",
+            "excludeDefaultStyles": false
+        }
+    },
+    "styles": {
+        "website": "./styles/website.scss"
+    }
+}

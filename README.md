@@ -1,50 +1,42 @@
-# Made in a Fab Lab - Workshop Manual
+![](assets/branding.png)
 
 This manual provides useful reference to successfully follow a Made in a Fab Lab Workshop.
 
 The content is split according to the different areas covered during the workshop.
 
-### Chapter 1: General Notes
+## The workshop
 
-Methodology
+### [General Notes](01_general_notes.md)
 
-### Chapter 2: Workshop introduction
+Methodology, how work is planned, and expected outcomes.
 
-Introduction to Made in a Fab Lab:Manifesto, Materials and Reuse, Licensing and Creative Commons.
+### [Workshop introduction](02_workshop_intro.md)
 
-### Chapter 3: Product Workflow
+Introduction to Made in a Fab Lab: Manifesto, Materials and Reuse, Licensing and Creative Commons.
 
-Workflow overview:what needs to be done from brief to final product.
+## From prototype to product
 
-### Chapter 4: Project requirements
+### [Product Workflow](03_product_workflow.md)
+
+Workflow overview: what needs to be done from brief to final product.
+
+### [Project requirements](04_project_requirements.md)
 
 Projects brief: how to interpret and analyse the requirements.
 
-### Chapter 5: Workgroup
+### [Workgroups](05_workgroups.md)
 
 Workgroup organisation: making groups, identify and explain roles.
 
-### Chapter 6: Documentation
+### [Documentation](06_documentation.md)
 
-Project documentation:documenting the different parts of the project and construction plans.
+Project documentation: documenting the different parts of the project and construction plans.
 
-### Chapter 7: Business Planning
+### [Designing a product digitally](13_design.md)
 
-Business planning:identifying production processes, distribution channels, value propositions, competitors and relevant stakeholders, drafting a business canvas.
+Designing a product starting from a scaffold. 
 
-### Chapter 8: Marketing & Communication
-
-Marketing: how to communicate the product, making a splash page and performing A/B testing.
-
-### Chapter 9: Financing options
-
-Financing: exploring different possibilities including local distribution, crowdfunding, angel and venture capital.
-
-### Chapter 10: Fullfilment
-
-Producing and delivering products: how to plan and deliver a physical product
-
-### Chapter 11: DIGITAL FABRICATION, PROCESSES AND TOOLS
+### [Chapter 11: Digital Fabrication for local production](11_digifab.md)
 
 1. State of the Art
 
@@ -52,11 +44,31 @@ Producing and delivering products: how to plan and deliver a physical product
 
 3. Practical examples
 
-### Chapter 12: Project briefs
+## From product to market
 
+### [Business Planning](07_business_planning.md)
 
+Business planning: identifying production processes, distribution channels, value propositions, competitors and relevant stakeholders, drafting a business canvas.
 
-### 
+Defining licensing options, among the different available.
+
+### [Marketing & Communication](08_marketing.md)
+
+Marketing: how to communicate the product, making a splash page and performing A/B testing.
+
+### [Financing options](09_financing.md)
+
+Financing: exploring different possibilities including local distribution, crowdfunding, angel and venture capital.
+
+### [Fullfilment](10_fulfillment.md)
+
+Producing and delivering products: how to plan and deliver a physical product
+
+## Examples
+
+### [Example projects](12_project_briefs.md)
+
+Cards describing Made in a Fab Lab inspirational projects and ideas for building products around them.
 
 
 
