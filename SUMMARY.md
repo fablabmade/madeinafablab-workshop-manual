@@ -13,6 +13,7 @@
 * [Workgroups](05_workgroups.md)
 * [Project Documentation](06_documentation.md)
 * [Designing a Product](13_design.md)
+* [Prototyping](14_prototyping.md)
 * [Digital Fabrication](11_digifab.md)
 
 ## From product to market
