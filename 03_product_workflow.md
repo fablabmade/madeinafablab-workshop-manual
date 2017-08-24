@@ -80,11 +80,22 @@ During this phase internal and external documentation is produced.
 
 Producing documentation is a collaborative process, so it's very important to track the changes and communicate edits to collaborators. During the workshop we will use tools that allow working together on documentation.
 
+We will work on different documents including the requirements specification,
+the production plan, the business canvas, and marketing plan.
+
+Finally all this content will feed into a singe project website containing all the information about the product.
+
 ## Sharing / Marketing
 
 
 <div style="text-align:center">
 <img src="assets/marketing.png" style="max-width: 400px">
 </div>
+
+An effective communication strategy can bring customers, investors and in general traffic to your product. Creating a strategy across different media such as web, social and traditional media is not easy but can be done with few resources if an effective planning is carried out.
+
+You will need to draft a marketing plan allocating resources to each channel.
+
+For starting the marketing activitiy you will make a splash website and a brand identity for your product.
 
 
