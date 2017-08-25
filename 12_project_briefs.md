@@ -399,8 +399,6 @@ The project should include the product concept statement and its documentation i
 
 - Arduino Braccio Robotic Arm Kit or muArm or meArm
 
-
-
 ----
 
 

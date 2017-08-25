@@ -9,6 +9,7 @@
 ## From prototype to product
 * [Product Workflow](03_product_workflow.md)
 * [Project Development](15_project_development.md)
+* [Project Management](17_project_management.md)
 * [Project Requirements](04_project_requirements.md)
 * [Workgroups](05_workgroups.md)
 * [Project Documentation](06_documentation.md)

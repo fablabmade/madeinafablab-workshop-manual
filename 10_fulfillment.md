@@ -47,7 +47,7 @@ Production can be a difficult process, especially for large batches.
 
 You can deal with local production for the first few thousands parts without setting up a factory. After that you should consider alternative production models.
 
-Networking with other labs can be an option. 
+Networking with other labs or companies can be an option. 
 
 Finally delegating production to a third party can scale to millions of parts in the long run.
 
@@ -82,9 +82,49 @@ sales, but only when you have more than one product.
 
 **Shipping costs must be taken into account very seriously. Designing a compact product and packaging can save substantial amounts.**
 
+## Planning production
+
+You need to plan your production according to many different factors, even for small numbers, when producing in-house or using third party partners. 
+
+Finally you need to figure out how to handle production scaling to large numbers if sales go really well.
+
+What you need to take into account include:
+
+- how many products need to be produced for a given date
+- parts or components to be acquired on the market or custom - built
+- inventory for consumables and assembly materials
+- packaging and other accessory material
+- logistics for all the above
+- how much staff you need to make the final products, and how or when to increase the production and so much more.
+
+There are a number of issues that make planning an hard problem when
+talking about an hardware product.
+
+- You don't know exactly how many products will be sold in a specific time of the year. You could make guesses based on season: for example have more stock for the christmas season if your product is a toy for kids.
+
+- You can control your stock of parts and materials, but have little control over the stock of your suppliers, especially if your product is made my many different components from differente suppliers. What can be easy to find in small quantities can be hard to find in thousand of units. Also parts can be discontinued.
+
+## Production batches
+
+It is common for hardware products to arrange production in batches. For example a first batch for pre-orders, then a second batch to be sold online, and finally other batches to be sent to physical shops.
+
+A batch can also correspond to a different product iteration, with subsequent batches delivering each time a more refined version. This happens a lot in consumer electronic products, where few tweaks are done per batch or per destination country, also linked to different suppliers of the same part.
+
+The real advantage of production batches is linking them with pre-orders.
+This way each batch is pre-payed by the customers, and only the necessary quantity of each product is produced, when the number of orders reaches a certain amount.
+
+Something similar happens with crowdfunding campaigns where you collect orders and money from customers well before having the actual products.
+
+In this case the production batches will match the so-called rewards, the perks that crowdfunding projects give to the customers, usually including the product but not only. This will add other tasks to the work plan, since
+it might involve producing and delivering gadgets, t-shirts or other items to the customers.
+
 ## Getting payed
 
 In order to get payed for your online sales, you will need to setup an online
 account for this purpose, usually on [Paypal](http://paypal.com) or [Stripe](http://stripe.com). Both will require a commission for each sale, and to verify your account linking a credit-card or a bank account.
 
 You will be asked for such an account when activating a Shopify account or pretty any other online ecommerce system.
+
+The credit card processors are very useful for collecting payments, but you should consider moving money to a traditional bank as soon as possible, in order to be able to pay suppliers, salaries and so on.
+
+
