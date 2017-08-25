@@ -61,44 +61,46 @@ What gives market advantage is the innovation speed, being the first, and gettin
 
 ## Paper and Cardboard
 
-- Low-fi prototyping
+- [Low-fi prototyping](http://www.designpracticemethods.rmit.edu.au/wp-content/uploads/2012/12/IMG_1919.jpg)
 
-- 3D Paper structures, Carboard machines
+- [3D Paper models](http://mat2.materialicious.com/images/want-a-3d-paper-model-of-your-head-o.jpg), [Carboard machines](http://mtm.cba.mit.edu)
 
 ## Clay
 
-- Low-fi prototyping
+- [Low-fi prototyping](https://i.pinimg.com/736x/c7/69/d7/c769d7be48f4de0dc557f8f31a8e8a7a---cars-ford-edge.jpg)
 
-- Scanning & Reverse engineering
+- [Scanning & Reverse engineering](http://www.a2p2.co.uk/uploads/images/gallery/laser_scanning_sports_car_clay_model_l.jpg)
 
 # CNC
 
 ## 3D Printing
 
-- 3D printing for fast prototyping
+- [3D printing for fast prototyping](http://colombodesignstudio.com/media/3d-printing-banner.jpg)
 
-- 3D printing for molding
+- [3D printing for molding](https://ammodel.files.wordpress.com/2012/05/img_2793_edited-1.jpg)
 
-- 3D printing in exotic materials
+- [3D printing in exotic materials](https://3dprintingindustry.com/wp-content/uploads/2015/01/Microfabrica-metal-3d-printing.jpg)
 
 ## Laser-cutting
 
-- Laser cutting 2D shapes, parts
+- [Laser cutting 2D shapes, parts](http://mbtreasurista.com/image/cache/data/Products/Prima%20Marketing/Wood/I2966700IT0L-900x900.jpg)
 
-- Laser cutting for 3D structures
+- [Laser cutting for 3D structures](https://i.pinimg.com/736x/91/d4/77/91d47741c82dae8d5aaf3baac1f1fead--engraving-ideas-laser-engraving.jpg)
 
-- Laser cutting for packaging
+- [Laser cutting for packaging](http://www.lasercutworks.com/wp-content/uploads/2016/05/lasercut-packaging-1024x682.jpg)
 
-- Laser engraving
+- [Laser engraving](http://formatec-cnc.com/wp-content/uploads/2016/12/fiber-laser-sample-4.jpg)
 
 ## CNC Milling
 
-- 2D Milling
+- [2D Milling](http://www.r26d.com/images/uploads/2015/02/20150202-175529_BE7f_DSC-RX100.jpg)
 
-- 3D Milling
+- [3D Milling](https://discuss-assets.s3.amazonaws.com/6327ee0957af40b3842760844333de5ac29022163a6a.jpg)
 
-- Mold making
+- [Mold making](http://www.stylecnc.com/uploads/allimg/160601/1464777649838043.jpg)
 
-## Custom machines
+## Other machines
 
-- Wire bending
+- [Wire bending](http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2013/11/diwire-bender-lead-2.jpg)
+
+- [EDM](https://www.youtube.com/watch?v=_5yg8Ci5lzY)

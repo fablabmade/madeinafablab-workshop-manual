@@ -75,12 +75,3 @@ For printing
 
 - OBJ, STL
 
-### CAM - Computer Aided Manufacturing
-
-### 3D Printers
-
-
-
-### Lasers
-
-### CNC Mills

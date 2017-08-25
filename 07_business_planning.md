@@ -40,7 +40,7 @@ Learn pitching from Richard Branson (Virgin):
 
 ## Business canvas
 
-The business canvas (or Lean canvas, depending on which book you prefer between the Lean Startup or the Business Model Revolution)
+The business model canvas (or Lean canvas, depending on which book you prefer between the Lean Startup or the Business Model Revolution)
 is a simple but powerful tool allowing you to quickly transfer your (business) idea from your mind to a format you can share with other people.
 
 In the past this would have required writing a Business Plan, a 100 pages document that would take few weeks at least. This will be necessary once the idea scales up, and you will be looking for investors. But for a preliminary feasibility check a canvas is all you need.
@@ -96,6 +96,5 @@ This should include what your competitors cannot get and you have in terms of ad
 Here an example of a Lean canvas for a business
 
 ![Lean Canvas](assets/canvas2.png)
-
 
 **Exercise: pick a random business idea an try to make a business canvas for it, for example an icecream shop for vegans, a training center for tiny dogs, a restaurant where they serve only green food, etc**
