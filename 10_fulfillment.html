@@ -32,7 +32,7 @@
 
     
         
-        <link rel="stylesheet" href="website-1503559075908.css">
+        <link rel="stylesheet" href="website-1503688953391.css">
         
     
 
@@ -210,6 +210,24 @@
         <li class="chapter 
               "
             data-level="3.3" 
+            data-path="17_project_management.html">
+
+            
+                <a href="17_project_management.html">
+            
+                    
+                    Project Management
+            
+                </a>
+            
+
+            
+        </li>
+    
+        
+        <li class="chapter 
+              "
+            data-level="3.4" 
             data-path="04_project_requirements.html">
 
             
@@ -227,7 +245,7 @@
         
         <li class="chapter 
               "
-            data-level="3.4" 
+            data-level="3.5" 
             data-path="05_workgroups.html">
 
             
@@ -245,7 +263,7 @@
         
         <li class="chapter 
               "
-            data-level="3.5" 
+            data-level="3.6" 
             data-path="06_documentation.html">
 
             
@@ -263,7 +281,7 @@
         
         <li class="chapter 
               "
-            data-level="3.6" 
+            data-level="3.7" 
             data-path="13_design.html">
 
             
@@ -281,7 +299,7 @@
         
         <li class="chapter 
               "
-            data-level="3.7" 
+            data-level="3.8" 
             data-path="14_prototyping.html">
 
             
@@ -299,7 +317,7 @@
         
         <li class="chapter 
               "
-            data-level="3.8" 
+            data-level="3.9" 
             data-path="11_digifab.html">
 
             
@@ -798,7 +816,7 @@ and then aggregate them into a single list of products.</p>
 <h2 id="relying-on-third-parties">Relying on third parties</h2>
 <p>Production can be a difficult process, especially for large batches.</p>
 <p>You can deal with local production for the first few thousands parts without setting up a factory. After that you should consider alternative production models.</p>
-<p>Networking with other labs can be an option. </p>
+<p>Networking with other labs or companies can be an option. </p>
 <p>Finally delegating production to a third party can scale to millions of parts in the long run.</p>
 <p><a href="https://www.kickstarter.com/help/resources?ref=handbook_fulfillment" target="_blank">Kickstarter provides an extensive list of suppliers for design, manufacturing, packaging, logistics etc.</a></p>
 <h1 id="sales-and-order-fulfillment">Sales and order fulfillment</h1>
@@ -827,10 +845,39 @@ browser. One example is <a href="http://quickbooks.com" target="_blank">Quickboo
 <a href="http://shopify.com" target="_blank">Shopify</a> which you could also consider for your online
 sales, but only when you have more than one product.</p>
 <p><strong>Shipping costs must be taken into account very seriously. Designing a compact product and packaging can save substantial amounts.</strong></p>
+<h2 id="planning-production">Planning production</h2>
+<p>You need to plan your production according to many different factors, even for small numbers, when producing in-house or using third party partners. </p>
+<p>Finally you need to figure out how to handle production scaling to large numbers if sales go really well.</p>
+<p>What you need to take into account include:</p>
+<ul>
+<li>how many products need to be produced for a given date</li>
+<li>parts or components to be acquired on the market or custom - built</li>
+<li>inventory for consumables and assembly materials</li>
+<li>packaging and other accessory material</li>
+<li>logistics for all the above</li>
+<li>how much staff you need to make the final products, and how or when to increase the production and so much more.</li>
+</ul>
+<p>There are a number of issues that make planning an hard problem when
+talking about an hardware product.</p>
+<ul>
+<li><p>You don&apos;t know exactly how many products will be sold in a specific time of the year. You could make guesses based on season: for example have more stock for the christmas season if your product is a toy for kids.</p>
+</li>
+<li><p>You can control your stock of parts and materials, but have little control over the stock of your suppliers, especially if your product is made my many different components from differente suppliers. What can be easy to find in small quantities can be hard to find in thousand of units. Also parts can be discontinued.</p>
+</li>
+</ul>
+<h2 id="production-batches">Production batches</h2>
+<p>It is common for hardware products to arrange production in batches. For example a first batch for pre-orders, then a second batch to be sold online, and finally other batches to be sent to physical shops.</p>
+<p>A batch can also correspond to a different product iteration, with subsequent batches delivering each time a more refined version. This happens a lot in consumer electronic products, where few tweaks are done per batch or per destination country, also linked to different suppliers of the same part.</p>
+<p>The real advantage of production batches is linking them with pre-orders.
+This way each batch is pre-payed by the customers, and only the necessary quantity of each product is produced, when the number of orders reaches a certain amount.</p>
+<p>Something similar happens with crowdfunding campaigns where you collect orders and money from customers well before having the actual products.</p>
+<p>In this case the production batches will match the so-called rewards, the perks that crowdfunding projects give to the customers, usually including the product but not only. This will add other tasks to the work plan, since
+it might involve producing and delivering gadgets, t-shirts or other items to the customers.</p>
 <h2 id="getting-payed">Getting payed</h2>
 <p>In order to get payed for your online sales, you will need to setup an online
 account for this purpose, usually on <a href="http://paypal.com" target="_blank">Paypal</a> or <a href="http://stripe.com" target="_blank">Stripe</a>. Both will require a commission for each sale, and to verify your account linking a credit-card or a bank account.</p>
 <p>You will be asked for such an account when activating a Shopify account or pretty any other online ecommerce system.</p>
+<p>The credit card processors are very useful for collecting payments, but you should consider moving money to a traditional bank as soon as possible, in order to be able to pay suppliers, salaries and so on.</p>
 
                                 
                                 </section>
@@ -874,7 +921,7 @@ account for this purpose, usually on <a href="http://paypal.com" target="_blank"
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Fulfillment","level":"4.4","depth":1,"next":{"title":"Project Index","level":"5.1","depth":1,"path":"12_project_briefs.md","ref":"12_project_briefs.md","articles":[]},"previous":{"title":"Financing options","level":"4.3","depth":1,"path":"09_financing.md","ref":"09_financing.md","articles":[]},"dir":"ltr"},"config":{"plugins":["theme-gestalt","-theme-default","styles-sass-fix","-sharing","-fontsettings"],"styles":{"website":"website-1503559075908.css"},"pluginsConfig":{"theme-gestalt":{"styles":{"website":"styles/website.css"},"showLevel":false,"logo":"assets/logo.png","favicon":"assets/favicon.ico","excludeDefaultStyles":false},"styles-sass-fix":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"links":{"sidebar":{"Made in a Fab Lab":"http://fablabmade.com","Fabctory":"http://fabctory.com"}},"gitbook":"*"},"file":{"path":"10_fulfillment.md","mtime":"2017-08-23T17:43:31.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-08-24T07:17:54.474Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Fulfillment","level":"4.4","depth":1,"next":{"title":"Project Index","level":"5.1","depth":1,"path":"12_project_briefs.md","ref":"12_project_briefs.md","articles":[]},"previous":{"title":"Financing options","level":"4.3","depth":1,"path":"09_financing.md","ref":"09_financing.md","articles":[]},"dir":"ltr"},"config":{"plugins":["theme-gestalt","-theme-default","styles-sass-fix","-sharing","-fontsettings"],"styles":{"website":"website-1503688953391.css"},"pluginsConfig":{"theme-gestalt":{"styles":{"website":"styles/website.css"},"showLevel":false,"logo":"assets/logo.png","favicon":"assets/favicon.ico","excludeDefaultStyles":false},"styles-sass-fix":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"links":{"sidebar":{"Made in a Fab Lab":"http://fablabmade.com","Fabctory":"http://fabctory.com"}},"gitbook":"*"},"file":{"path":"10_fulfillment.md","mtime":"2017-08-25T17:47:16.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-08-25T19:22:32.174Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>

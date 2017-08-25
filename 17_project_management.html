@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Project Requirements · GitBook</title>
+        <title>Project Management · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.2">
@@ -49,10 +49,10 @@
     
 
     
-    <link rel="next" href="05_workgroups.html" />
+    <link rel="next" href="04_project_requirements.html" />
     
     
-    <link rel="prev" href="17_project_management.html" />
+    <link rel="prev" href="15_project_development.html" />
     
 
     </head>
@@ -208,7 +208,7 @@
     
         
         <li class="chapter 
-              "
+            active  selected  "
             data-level="3.3" 
             data-path="17_project_management.html">
 
@@ -226,7 +226,7 @@
     
         
         <li class="chapter 
-            active  selected  "
+              "
             data-level="3.4" 
             data-path="04_project_requirements.html">
 
@@ -776,7 +776,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >Project Requirements</a>
+        <a href="." >Project Management</a>
     </h1>
 </div>
 
@@ -791,36 +791,31 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="project-requirements">Project requirements</h1>
-<p>You need to define project requirements in order to know what to build and why.</p>
-<p>This is usually a long process as it requires extracting requirements from a number of different kinds of users, not keen to define what they need in terms
-of clear language.</p>
-<p>Definining requirements means also understanding the product domain, being able to sketch out the possible users for the product and how they will use it during their daily routines.</p>
-<p>A number of techniques exist to define requirements, the one we will use can be described as follows.</p>
-<h2 id="identifying-stakeholders-or-personas">Identifying stakeholders or personas</h2>
-<p>We first try to guess who will benefit for using our product. These are called stakeholders or in more modern models, personas.</p>
-<p>Each persona should be sketched as a real person. It is useful to give a name and draft a short profile for each persona.</p>
-<p>According to their profile each persona will have needs, expressions of the problem to solve with our product.</p>
-<p>For each need we should provide a solution, in terms of how the person will use our product to solve it.</p>
-<h2 id="use-cases">Use cases</h2>
-<p>For each case that our product is used we can define a use-case. This will have the form of a title, a number of actions perfomed by the user or by the product, and the expected outcomes achieved.</p>
-<p>Special consideration must be taken for exceptions: the cases in which given a wrong input our product will handle failure gracefully.</p>
-<h2 id="explicit-requirements">Explicit requirements</h2>
-<p>Once we identified the use cases, we can classify the actual requirements.</p>
-<p>These should take the form of simple sentences, subject verb object</p>
-<p>The requirements will drive our design phase and all the subsequent ones.</p>
-<p>Each requirements will be categorized in Mandatory, Optional, Nice to have.</p>
-<p>This way we can make sure to have all the mandatory requirements implemented into our MVP, to be able to validate fully our product with the testing phase.</p>
-<p>The requirements will be organized into three main categories:</p>
-<ul>
-<li><p>functional requirements: defining what the product does </p>
-</li>
-<li><p>usability requirements: describing the details that should be taken into account in order to make a more usable product</p>
-</li>
-<li><p>technical requirements: all the details about the product&apos;s technical features, as well as electrical / electronic components necessary for its operation</p>
-</li>
-</ul>
-<p><strong>Exercise: sketch out stakeholders, use cases and requirements for one of the machines in the lab if you know them already, or one appliance in your house, like a tv, a fridge or coffee machine</strong></p>
+                                <h1 id="project-management">Project management</h1>
+<h2 id="planning-the-work">Planning the work</h2>
+<p>Good project management can make the difference between 
+a good idea and a good <strong>execution</strong> of it.</p>
+<p>Once you identify your project development strategy it is time to start listing actions and defining exactly what needs to be done.</p>
+<h2 id="why-planning">Why planning?</h2>
+<p>During the product development phase, you will have a defined amount of time and some deadlines to be met for delivering various versions of it.</p>
+<p>Each of these deadlines will serve as checkpoint for the product development, and often the result of each will be taken into account to keep developing the product or killing it.</p>
+<p>Deadlines can be related to internal events, such as meetings with potential investors, and to external ones like trade events or competitors releases. </p>
+<p>For the actual production, planning has the objective to make sure you have enough stock of your product for the forecasted sales. But also to optimize costs and make economy of scale savings on raw materials and parts.</p>
+<h2 id="planning-techniques-and-tools">Planning techniques and tools</h2>
+<h2 id="to-do-lists">To Do Lists</h2>
+<p>For small projects, especially with a very limited group of people, you can do very informal planning. A shared online documents, listing one task per line, with striked lines indicating completed tasks can be a good planning tool.</p>
+<p>For each task list what needs to be done, who needs to do it and when is due.</p>
+<p>Reviewing the task lists each day can give an overview of what was achieved and what still needs to be completed. On the other side it is difficult to manage hundreds of tasks this way, for example to identify all the ones assigned to a person.</p>
+<h2 id="gantt-charts">Gantt charts</h2>
+<p>Gantt Charts come from the engineering world, and are used to visually represent not only tasks, but also the dependencies and critical paths between them.</p>
+<p>A Gantt Chart adds to the plain todo list for each task, a start date and end date, as well as the one it depends from and the ones depending on it. </p>
+<p>A line representing the task duration is used for an easier understanding.</p>
+<p>This technique is perfect for waterfall project development, but rarely the charts are fully respected, and needs to be continuosly updated to reflect the actual state of the project rather than the ideal world indicated into the chart.</p>
+<h2 id="kan-ban-boards">Kan Ban Boards</h2>
+<p>A popular system born from the japanese industry, can be found today in many online software applications, such as Trello, Github, Gitlab.</p>
+<p>A Kan Ban board allows to collect Cards into titled columns, for example labeled Todo, Doing, Done or taking the name of the different areas in the business. </p>
+<p>Each card can represent an activity or a task, and its position defines the status of the activity itself. Completed activities for example, will appear in the Done column, while those pending in the Todo one.</p>
+<p>Associating all information about a task in a single card allows for easy reference and sharing the tasks with the working group.</p>
 
                                 
                                 </section>
@@ -848,12 +843,12 @@ of clear language.</p>
 
             
                 
-                <a href="17_project_management.html" class="navigation navigation-prev " aria-label="Previous page: Project Management">
+                <a href="15_project_development.html" class="navigation navigation-prev " aria-label="Previous page: Project Development">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="05_workgroups.html" class="navigation navigation-next " aria-label="Next page: Workgroups">
+                <a href="04_project_requirements.html" class="navigation navigation-next " aria-label="Next page: Project Requirements">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -864,7 +859,7 @@ of clear language.</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Project Requirements","level":"3.4","depth":1,"next":{"title":"Workgroups","level":"3.5","depth":1,"path":"05_workgroups.md","ref":"05_workgroups.md","articles":[]},"previous":{"title":"Project Management","level":"3.3","depth":1,"path":"17_project_management.md","ref":"17_project_management.md","articles":[]},"dir":"ltr"},"config":{"plugins":["theme-gestalt","-theme-default","styles-sass-fix","-sharing","-fontsettings"],"styles":{"website":"website-1503688953391.css"},"pluginsConfig":{"theme-gestalt":{"styles":{"website":"styles/website.css"},"showLevel":false,"logo":"assets/logo.png","favicon":"assets/favicon.ico","excludeDefaultStyles":false},"styles-sass-fix":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"links":{"sidebar":{"Made in a Fab Lab":"http://fablabmade.com","Fabctory":"http://fabctory.com"}},"gitbook":"*"},"file":{"path":"04_project_requirements.md","mtime":"2017-08-25T18:56:55.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-08-25T19:22:32.174Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Project Management","level":"3.3","depth":1,"next":{"title":"Project Requirements","level":"3.4","depth":1,"path":"04_project_requirements.md","ref":"04_project_requirements.md","articles":[]},"previous":{"title":"Project Development","level":"3.2","depth":1,"path":"15_project_development.md","ref":"15_project_development.md","articles":[]},"dir":"ltr"},"config":{"plugins":["theme-gestalt","-theme-default","styles-sass-fix","-sharing","-fontsettings"],"styles":{"website":"website-1503688953391.css"},"pluginsConfig":{"theme-gestalt":{"styles":{"website":"styles/website.css"},"showLevel":false,"logo":"assets/logo.png","favicon":"assets/favicon.ico","excludeDefaultStyles":false},"styles-sass-fix":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"links":{"sidebar":{"Made in a Fab Lab":"http://fablabmade.com","Fabctory":"http://fabctory.com"}},"gitbook":"*"},"file":{"path":"17_project_management.md","mtime":"2017-08-25T14:01:09.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-08-25T19:22:32.174Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
