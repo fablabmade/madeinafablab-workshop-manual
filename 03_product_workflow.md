@@ -24,6 +24,8 @@ Often the brief also include technical and usability requirements, which will ha
 
 An effective brief can save some time during development, but everything written has to be taken with precaution and checked continuosly during an extensive analysis of requirements.
 
+**Excercise: make some examples of a product brief, starting from products you know**
+
 ## Requirements
 
 The goal of this phase is to define which are the requirements that the products needs to satisfy according to the different stakeholders involved, their usage scenarios and of course to the limitations imposed by technology.
@@ -33,16 +35,17 @@ and requirements must be checked continuosly during all other phases.
 
 A shortcut taken to save some headaches for the production might negatively impact the product and in the end sales.
 
-Requirements must be checked against real users to be fully validated. Several approaches exist including user groups,
-interviews, study groups, A/B testing, etc.
+Requirements must be checked against real users to be fully validated. Several approaches exist including user groups, interviews, study groups, A/B testing, etc.
 
-The way we'll try to test requirements is quite revolutionary and only allowed by the recent technologies introduced with the
-digital fabrication.
+The way we'll try to test requirements is quite revolutionary and only allowed by the recent technologies introduced with the digital fabrication.
 
 What we'll do is to test minimal working products, or MVPs with
 potential customers, asking what they think about them and what should be improved to build an optimal product.
 
 We can also try selling these products in a local market for a more real-world scenario, but this needs to be done only when the product is mature enough (and safe) to be really useful to the buyer.
+
+**Exercise: try to define requirements for a simple object, for example the computer's mouse or touchpad**
+
 
 ## Design
 
@@ -60,6 +63,8 @@ In order to be attractive to consumers, products need several design elements to
 
 Starting from the technological prototypes available, our task will be that of designing the above elements for our products, paying attention to production processes that will allow us to produce small batches at an affordable cost.
 
+**Excercise: find products you like, and try to analyze all the design elements you can find in it**
+
 ## Prototyping
 
 In terms of rapid prototyping digital open designs, personal fabrication and open source hardware make today easy to achieve what required in the past a small factory.
@@ -71,6 +76,8 @@ As a basis of our prototype we can also use on the many available open source pr
 Our prototyping process will start from a dozen project selected or developed for the workshop. The participant's main task is to create a concept with digital design and produce an integrated prototype which can be used as an MVP for market validation.
 
 The process will include using different machines, the 3D Printer for making plastic parts, the laser cutter for packaging and 2d interlocking design. The CNC mill for circuits and wax molds. During the workshop participants will discover molding and casting and vacuum forming projects.
+
+**Excercise: find on the internet early prototypes of popular products, then note the difference between them and the actual product**
 
 ## Documentation
 
@@ -85,8 +92,9 @@ the production plan, the business canvas, and marketing plan.
 
 Finally all this content will feed into a singe project website containing all the information about the product.
 
-## Sharing / Marketing
+**Excercise: give a bad and a good example of product documentation**
 
+## Sharing / Marketing
 
 <div style="text-align:center">
 <img src="assets/marketing.png" style="max-width: 400px">
@@ -98,4 +106,4 @@ You will need to draft a marketing plan allocating resources to each channel.
 
 For starting the marketing activitiy you will make a splash website and a brand identity for your product.
 
-
+**Exercise: create an instagram account if you don't have one, and load at least one picture of the workshop with the tag #madeinafablabdubai**

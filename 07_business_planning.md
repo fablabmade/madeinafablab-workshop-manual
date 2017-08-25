@@ -6,7 +6,7 @@ But since making a product requires lots of effort and resources, you want to be
 
 ## Lean startup for hardware
 
-The traditional approach to start-ups and entrepreneurship in general has been shaken significantly by a number of books introducing the trend of the so-called Lean Startup.
+The traditional approach to start-ups and entrepreneurship in general has been shaken significantly by a number of books such as Business Model Revolution, introducing the trend of the so-called Lean Startup.
 
 To simplify, the Lean Startup provides a number of guiding principles and tricks that help finding out sooner if a product works and when is time to produce it. 
 
@@ -45,7 +45,7 @@ is a simple but powerful tool allowing you to quickly transfer your (business) i
 
 In the past this would have required writing a Business Plan, a 100 pages document that would take few weeks at least. This will be necessary once the idea scales up, and you will be looking for investors. But for a preliminary feasibility check a canvas is all you need.
 
-What's in the Business Canvas?
+What's in the Business / Lean Canvas?
 
 ![Lean Canvas](assets/canvas.jpeg)
 
@@ -90,6 +90,12 @@ subscriptions, growth per quarter, etc.
 
 This should include what your competitors cannot get and you have in terms of advantage. For example a patented technology, the founders expertise in a specific field, specific territorial assets.
 
+
+## Exmple
+
+Here an example of a Lean canvas for a business
+
 ![Lean Canvas](assets/canvas2.png)
 
-**Exercise: pick an idea an try to make a business canvas for it**
+
+**Exercise: pick a random business idea an try to make a business canvas for it, for example an icecream shop for vegans, a training center for tiny dogs, a restaurant where they serve only green food, etc**

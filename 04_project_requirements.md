@@ -44,3 +44,5 @@ The requirements will be organized into three main categories:
 - usability requirements: describing the details that should be taken into account in order to make a more usable product
 
 - technical requirements: all the details about the product's technical features, as well as electrical / electronic components necessary for its operation
+
+**Exercise: sketch out stakeholders, use cases and requirements for one of the machines in the lab if you know them already, or one appliance in your house, like a tv, a fridge or coffee machine**

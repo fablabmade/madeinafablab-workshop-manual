@@ -13,12 +13,18 @@ The identity should include color and black and white versions, optimized for pr
 
 Take inspiration from major brands and opt for simple geometric shapes.
 
+**Exercise: make a new logo for Made in a Fab Lab**
+
 ## Marketing materials
 
 Once you defined your brand identity, you should be able to use it in different materials.
 
 The bare minimum will be a web-friendly version of your logo in png format,
 and a color theme for the splash website.
+
+Usually products come with flyers, posters, brochures, advertisements. 
+
+**Exercise: make a flyer for an upcoming Made in a Fab Lab workshop**
 
 ## Project Video
 
@@ -36,6 +42,8 @@ The video should answer the most common questions immediately:
 You can also make several additional videos highlighting a specific feature
 or use of your product. Think about the Apple commercials.
 
+**Exercise: make a 30 second video with your mobile phone, describing a product you like and share it on Instagram using the #madeinafablabdubai tag.**
+
 ## Project Website
 
 A lean website is a minimum for any product. People will look at it while deciding what to buy, checking for a new model or looking for support answers.
@@ -49,6 +57,8 @@ A pre-order form can be easily developed with [Google Forms](http://forms.google
 If you want just to collect the email addresses you can use Mailchimp
 
 The majority of users come from mobile. Make sure your website can be rendered optimally from a smartphone.
+
+**Exercise: look for a website you like, and try to outline the main sections or pages**
 
 
 ## A/B Testing
@@ -67,6 +77,7 @@ Google provides everything needed to check which pages are more appreciated, and
 This way you will be able to use your customers to improve a little by a little
 all the content of your marketing materials.
 
+**Exercise: take some of the materials you made during the day, and make an alternative version, changing the slogan with a different phrase. Then ask the other participants which they like best.**
 
 ### Social media
 
@@ -81,3 +92,5 @@ Social media only work if they are updated often. Twice a day is a common strate
 In order to maximize social media impact, a posting calendar is often used, planning the publishing of posts at regular intervals.
 
 Some tools exist to automate these tasks, such as [Hootsuite](http://hootsuite.com). They also provide help in tracking social interactions with the customers.
+
+**Exercise: take a sample product you like and list all the social media you would advertise it on, for example twitter accounts, instagram, facebook pages, online magazine**

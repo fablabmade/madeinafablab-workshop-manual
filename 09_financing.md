@@ -49,6 +49,8 @@ Crowdfunding is a relatively new phenomenon. Platforms like Kickstarter, Indiego
 
 (Forbes)
 
+**Exercise: go to kickstarter.com and check successful projects. Write down how much they asked initially, how much they got and how the project go. Find at least one unsuccessful project**
+
 
 ## Venture capital
 

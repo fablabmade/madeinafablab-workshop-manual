@@ -6,7 +6,7 @@ Made in a Fab Lab is an atypical brand, created by Francisco Sanchez, available 
 
 This way your product can gets immediately recognised as carrying the values of ethical and sustainable local production from a global design.
 
-But you also help us increase the awareness on this topic and prove that much can be still done using the power of the Fab Lab Network.
+But it is also a tool to help us increase the awareness on this topic and prove that much can be still done using the power of the Fab Lab Network.
 
 ## Made in a Fab Lab Manifesto
 
@@ -32,9 +32,10 @@ A Manifesto for Global Design and Local Production
 The learning outcomes for the workshop are the following:
 
 - Learn how a product is made from concept to mass production
-- Understand the different phases and what roles participate into the process
-- Learn how to create a digital design for a product, starting from existing elements
-- Understand business-related aspects of an hardware company
+- Understand the different phases and what roles contribute to the process
+- Learn how to create a digital design for a product, starting from existing elements and customizing them to fit your idea
+- Build an overall understanding of electronics and micro-controllers
+- Understand business-related aspects of an hardware product company
 - Learn how to draft a basic business plan and how to approach production and sales
 - Understand basic elements of marketing and media advertising, including social media.
 
@@ -64,7 +65,6 @@ a business canvas and understanding financial requirements.
 Participants will design a brand and learn how to 
 create the marketing materials
 
-
 ## Schedule Days 2-
 
 **PROJECT BRIEF ANALYSIS - 30 mins**
@@ -78,7 +78,7 @@ Planning for the day activities is put on the production dashboard
 **DESIGN AND PROTOTYPING - 3 HOURS**
 
 According with their own proposal and the project requirements, each group customizes and prototype products from 2D and 3D digital models in order to build an MVP.
-The group will be in charge of integrating any electronic component, as well as designing identity and packaging for the product.
+The group will be in charge of integrating any electronic component, customizing functionality as well as designing identity and packaging for the product.
 
 **PRODUCTION PLAN - 30 MIN**
 
@@ -88,7 +88,7 @@ Finally they must calculate the production cost taking into account materials an
 
 **DOCUMENTATION - 30 MIN**
 
-Project documentation: each teamgroup documents his work step-by-step as a tutorial with photographs, captions and comments.
+Project documentation: each group documents his work step-by-step as a tutorial with photographs, captions and comments.
 
 **MARKETING AND COMMUNICATION - 30 MIN**
 
