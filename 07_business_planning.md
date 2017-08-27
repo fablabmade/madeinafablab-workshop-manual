@@ -6,7 +6,7 @@ But since making a product requires lots of effort and resources, you want to be
 
 ## Lean startup for hardware
 
-The traditional approach to start-ups and entrepreneurship in general has been shaken significantly by a number of books such as Business Model Revolution, introducing the trend of the so-called Lean Startup.
+The traditional approach to start-ups and entrepreneurship in general has been shaken significantly by a number of books such as [Business Model generation](https://www.amazon.it/Business-Model-Generation-Visionaries-Challengers/dp/0470876417), the [Lean Startup](https://www.amazon.it/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1?s=english-books&ie=UTF8&qid=1503722341&sr=1-1&keywords=lean+startup), and [Four steps to epiphany](https://www.amazon.it/Four-Steps-Epiphany-English-ebook/dp/B00FLZKNUQ/ref=sr_1_fkmr1_1?s=english-books&ie=UTF8&qid=1503722370&sr=1-1-fkmr1&keywords=five+steps+to+epiphany), introducing the trend of the so-called Lean Startup.
 
 To simplify, the Lean Startup provides a number of guiding principles and tricks that help finding out sooner if a product works and when is time to produce it. 
 
