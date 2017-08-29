@@ -14,9 +14,7 @@ Your funding goal should be the minimum amount you need to make the required qua
 
 ## Budget Template
 
-[Budget template below](https://docs.google.com/spreadsheets/d/1bUut3thgHJO4V4hRwjHPhzgWpTK2rj13yjDEfpYrdEY/edit?usp=sharing)
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRx2TuylAAVfsRgtz5-HwaR8I4rOF-3xNHa3r8EPAwFCtPby2HfElQ2p_3K8H9MOtht6LeJH9o6yxS6/pubhtml?widget=true&amp;headers=false"></iframe>
+[Budget template on Google Docs](https://docs.google.com/spreadsheets/d/1bUut3thgHJO4V4hRwjHPhzgWpTK2rj13yjDEfpYrdEY/edit?usp=sharing)
 
 # Financing options
 

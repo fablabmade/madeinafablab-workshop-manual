@@ -28,9 +28,10 @@ about your product, but also what actually your product does in simple words.
 
 Make your elevator pitch guide you through the project, it must contain the essence of it.
 
-Learn pitching from Richard Branson (Virgin):
+[Learn pitching from Steve Jobs iPhone announcement](https://www.youtube.com/watch?v=vN4U5FqrOdQ)
 
-<iframe src="https://www.youtube.com/embed/YBwbi3hyynE" frameborder="0" allowfullscreen></iframe>
+
+[Learn pitching from Richard Branson (Virgin)](https://www.youtube.com/YBwbi3hyynE)
 
 >"As I have written previously, the first step toward delivering a great pitch is to keep it human, since far too many presentations and speeches can turn artificial and wooden quite quickly. Let your passion shine through by being yourself and allowing your points to come across naturally. Use humour to connect with your audience and demonstrate your creativity.
 
